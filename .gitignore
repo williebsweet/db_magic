@@ -5,3 +5,10 @@ __pycache__/
 
 # Virtual environment
 .venv/
+
+# Other
+.env
+.env*
+*.log
+.DS_Store
+.databricks/
